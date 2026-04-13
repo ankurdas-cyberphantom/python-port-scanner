@@ -1,4 +1,4 @@
-# 🔍 CyberPhantom Port Scanner
+# 🔍 Advanced Port Scanner
 
 A multithreaded Python port scanner with banner grabbing, service detection, colored output, and optional CSV export. Built for educational use and authorized penetration testing.
 
