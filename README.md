@@ -1,5 +1,4 @@
 # 🔍 Python Port Scanner
-
 ## 📌 Overview
 A fast and lightweight port scanner built using Python. It scans target systems to identify open ports and potential services.
 
@@ -10,6 +9,9 @@ This tool is created for educational purposes only. Do not use it on networks or
 - Scan single or multiple ports
 - Fast scanning
 - Simple and clean output
+- 🛠 Tech Used
+ • Python
+ • Socket
 
 ## 🚀 Usage
 ```bash
@@ -27,6 +29,3 @@ Total time: 0:01:41.074892
 ```
 
 Note: Output may vary depending on the target system and network configuration.
-🛠 Tech Used
-Python
-Socket
