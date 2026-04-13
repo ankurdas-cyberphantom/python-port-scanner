@@ -1,5 +1,3 @@
-# python-port-scanner
-A fast and lightweight port scanner built using Python
 # 🔍 Python Port Scanner
 
 ## 📌 Overview
